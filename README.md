@@ -8,6 +8,7 @@
 * [ocaml-sfml][4] - Bindings to the SFML library
 * [ocaml-clanlib][5] - Bindings to the ClanLib library
 * [ocaml-allegro][6] - Bindings to the Allegro library
+* [raylib-ocaml][7] - Bindings to the Raylib library
 
 
 [1]: https://github.com/dbuenzli/tsdl
@@ -16,3 +17,4 @@
 [4]: https://github.com/fccm/ocaml-sfml
 [5]: https://github.com/fccm/ocaml-clanlib
 [6]: https://github.com/fccm/ocaml-allegro
+[7]: https://github.com/tjammer/raylib-ocaml
