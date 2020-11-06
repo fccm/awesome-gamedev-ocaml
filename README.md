@@ -24,6 +24,12 @@ There are also bindings for the accompanying libraries of SDL2:
 * [OCamlSDL2_Net][18] - Bindings to the SDL2_net library
 * [OCamlSDL2_Gfx][19] - Bindings to the SDL2_gfx library
 
+## OpenGL
+
+* [Tgls][30] - Bindings to OpenGL 3.{2,3}, 4.{0,1,2,3,4} and OpenGL ES {2,3}
+* [LablGL][31] - Interface to OpenGL
+* [glMLite][32] - Bindings to OpenGL
+
 
 [1]: https://github.com/dbuenzli/tsdl
 [2]: https://github.com/fccm/OCamlSDL2
@@ -42,3 +48,7 @@ There are also bindings for the accompanying libraries of SDL2:
 [17]: https://github.com/fccm/OCamlSDL2_Mixer
 [18]: https://github.com/fccm/OCamlSDL2_Net
 [19]: https://github.com/fccm/OCamlSDL2_Gfx
+
+[30]: https://github.com/dbuenzli/tgls
+[31]: https://github.com/garrigue/lablgl
+[32]: https://github.com/fccm/glMLite
