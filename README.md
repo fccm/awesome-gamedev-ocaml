@@ -55,6 +55,10 @@ There are also bindings for the accompanying libraries of SDL2:
 * [rolling-moon][67] - [aryx/fork][68]
 * [Tetratta][69]
 
+## Old Games
+
+* [old_caml_site/humps/caml_Games][100] - Old games from the Hump
+
 
 ## License
 
@@ -105,3 +109,5 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [67]: http://decapode314.free.fr/ocaml/Chipmunk/rolling-moon.html
 [68]: https://github.com/aryx/fork-rolling-moon
 [69]: http://decapode314.free.fr/ocaml/Tetratta/
+
+[100]: https://caml.inria.fr/pub/old_caml_site/humps/caml_Games.html
