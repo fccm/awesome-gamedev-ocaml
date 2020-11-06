@@ -36,6 +36,7 @@ There are also bindings for the accompanying libraries of SDL2:
 * [ocaml-chipmunk][41] - Bindings to Chipmunk, a 2D physics engine
 * [OCaml-Irrlicht][42] - Bindings to Irrlicht, a 3D engine
 * [px_sprite_gen][43] - A Pixel Sprite Generator
+* [bulletml][44] - Manipulate and interpret shmup patterns
 
 ## Entity / Component Systems (ECS)
 
@@ -88,6 +89,7 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [41]: https://github.com/fccm/ocaml-chipmunk
 [42]: https://github.com/fccm/OCaml-Irrlicht
 [43]: https://github.com/fccm/px_sprite_gen
+[44]: https://github.com/emillon/bulletml
 
 [50]: https://github.com/fccm/ocaml-enties
 [51]: http://decapode314.free.fr/ocaml/enties/doc/doc-2012-12-06/Ent.html)
