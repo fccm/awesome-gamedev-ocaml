@@ -100,7 +100,7 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [44]: https://github.com/emillon/bulletml
 
 [50]: https://github.com/fccm/ocaml-enties
-[51]: http://decapode314.free.fr/ocaml/enties/doc/doc-2012-12-06/Ent.html)
+[51]: http://decapode314.free.fr/ocaml/enties/doc/doc-2012-12-06/Ent.html
 [52]: https://github.com/VLanvin/ECS
 
 [60]: https://github.com/codename68/da-typing-shooter
