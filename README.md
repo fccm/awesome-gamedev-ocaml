@@ -37,6 +37,12 @@ There are also bindings for the accompanying libraries of SDL2:
 * [OCaml-Irrlicht][42] - Bindings to Irrlicht, a 3D engine
 * [px_sprite_gen][43] - A Pixel Sprite Generator
 
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This documentation is licensed under a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/4.0/).
+
 
 [1]: https://github.com/dbuenzli/tsdl
 [2]: https://github.com/fccm/OCamlSDL2
