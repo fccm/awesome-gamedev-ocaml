@@ -42,6 +42,18 @@ There are also bindings for the accompanying libraries of SDL2:
 * [ocaml-enties][50] - Entity / Component System ([api-doc][51])
 * [VLanvin/ECS][52] - Entity / Component System
 
+## Games
+
+* [da-typing-shooter][60]
+* [crypts-and-camls][61]
+* [Pongos][62]
+* [Wander][63]
+* [ocaml-shmups][64]
+* [ocaml-shmup-ds][65]
+* [Binkohp][66]
+* [rolling-moon][67] - [aryx/fork][68]
+* [Tetratta][69]
+
 
 ## License
 
@@ -80,3 +92,14 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [50]: https://github.com/fccm/ocaml-enties
 [51]: http://decapode314.free.fr/ocaml/enties/doc/doc-2012-12-06/Ent.html)
 [52]: https://github.com/VLanvin/ECS
+
+[60]: https://github.com/codename68/da-typing-shooter
+[61]: https://github.com/alugocp/crypts-and-camls
+[62]: https://github.com/cfcs/pongos
+[63]: http://topoi.pooq.com/hendrik/dv/free/fun/wander/
+[64]: https://github.com/fccm/ocaml-shmups
+[65]: https://github.com/fccm/ocaml-shmup-ds
+[66]: http://decapode314.free.fr/ocaml/GL/binkohp.html
+[67]: http://decapode314.free.fr/ocaml/Chipmunk/rolling-moon.html
+[68]: https://github.com/aryx/fork-rolling-moon
+[69]: http://decapode314.free.fr/ocaml/Tetratta/
