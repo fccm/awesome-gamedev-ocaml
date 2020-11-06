@@ -30,6 +30,13 @@ There are also bindings for the accompanying libraries of SDL2:
 * [LablGL][31] - Interface to OpenGL
 * [glMLite][32] - Bindings to OpenGL
 
+## Libraries
+
+* [OCamlODE][40] - Bindings to ODE, a 3D physics engine
+* [ocaml-chipmunk][41] - Bindings to Chipmunk, a 2D physics engine
+* [OCaml-Irrlicht][42] - Bindings to Irrlicht, a 3D engine
+* [px_sprite_gen][43] - A Pixel Sprite Generator
+
 
 [1]: https://github.com/dbuenzli/tsdl
 [2]: https://github.com/fccm/OCamlSDL2
@@ -52,3 +59,8 @@ There are also bindings for the accompanying libraries of SDL2:
 [30]: https://github.com/dbuenzli/tgls
 [31]: https://github.com/garrigue/lablgl
 [32]: https://github.com/fccm/glMLite
+
+[40]: https://github.com/fccm/OCamlODE
+[41]: https://github.com/fccm/ocaml-chipmunk
+[42]: https://github.com/fccm/OCaml-Irrlicht
+[43]: https://github.com/fccm/px_sprite_gen
