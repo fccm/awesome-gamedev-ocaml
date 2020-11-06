@@ -45,15 +45,15 @@ There are also bindings for the accompanying libraries of SDL2:
 
 ## Games
 
-* [da-typing-shooter][60]
-* [crypts-and-camls][61]
-* [Pongos][62]
-* [Wander][63]
-* [ocaml-shmups][64]
-* [ocaml-shmup-ds][65]
-* [Binkohp][66]
-* [rolling-moon][67] - [aryx/fork][68]
-* [Tetratta][69]
+* [da-typing-shooter][60] - A shooter inspired by typespeed. To shoot an enemy, type the word on it
+* [crypts-and-camls][61] - A text-based dungeon crawler
+* [Pongos][62] - Multiplayer pong gaming
+* [Wander][63] - A 3D orienteering game, with an excessively simple landscape
+* [ocaml-shmups][64] - Abstract mini-shmups collection
+* [ocaml-shmup-ds][65] - Mini-shmup using sprites from Commander
+* [Binkohp][66] - Little game inspired by the Mah-jong and extended on a 3D cube
+* [rolling-moon][67] - Game inspired by the SNES game "On The Ball" (or "CamelTry" in Japan), [aryx/fork][68]
+* [Tetratta][69] - Game similar to chinese checkers, but with a 3D tetrahedral board
 
 ## Old Games
 
