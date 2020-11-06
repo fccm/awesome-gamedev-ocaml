@@ -59,6 +59,10 @@ There are also bindings for the accompanying libraries of SDL2:
 
 * [old_caml_site/humps/caml_Games][100] - Old games from the Hump
 
+## Samples for beginners
+
+* [ocaml-sdl2-minigames][110] - Some basic samples for mini-games like Snake (using SDL2)
+
 
 ## License
 
@@ -111,3 +115,5 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [69]: http://decapode314.free.fr/ocaml/Tetratta/
 
 [100]: https://caml.inria.fr/pub/old_caml_site/humps/caml_Games.html
+
+[110]: https://github.com/fccm/ocaml-sdl2-minigames/
