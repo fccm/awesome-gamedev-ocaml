@@ -54,6 +54,7 @@ There are also bindings for the accompanying libraries of SDL2:
 * [Binkohp][66] - Little game inspired by the Mah-jong and extended on a 3D cube
 * [rolling-moon][67] - Game inspired by the SNES game "On The Ball" (or "CamelTry" in Japan), [aryx/fork][68]
 * [Tetratta][69] - Game similar to chinese checkers, but with a 3D tetrahedral board
+* [Caboodle][70] - A puzzle game, clone of Planarity
 
 ## Old Games
 
@@ -113,6 +114,7 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [67]: http://decapode314.free.fr/ocaml/Chipmunk/rolling-moon.html
 [68]: https://github.com/aryx/fork-rolling-moon
 [69]: http://decapode314.free.fr/ocaml/Tetratta/
+[70]: https://juripakaste.fi/caboodle.html
 
 [100]: https://caml.inria.fr/pub/old_caml_site/humps/caml_Games.html
 
