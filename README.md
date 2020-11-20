@@ -55,6 +55,7 @@ There are also bindings for the accompanying libraries of SDL2:
 * [rolling-moon][67] - Game inspired by the SNES game "On The Ball" (or "CamelTry" in Japan), [aryx/fork][68]
 * [Tetratta][69] - Game similar to chinese checkers, but with a 3D tetrahedral board
 * [Caboodle][70] - A puzzle game, clone of Planarity
+* [MariOCaml][71] - HTML 5 canvas web-browser implementation of the Super Mario Bros platformer, [git][72]
 
 ## Old Games
 
@@ -115,6 +116,8 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [68]: https://github.com/aryx/fork-rolling-moon
 [69]: http://decapode314.free.fr/ocaml/Tetratta/
 [70]: https://juripakaste.fi/caboodle.html
+[71]: https://matthewhsu.me/mariocaml/
+[72]: https://github.com/mahsu/MariOCaml
 
 [100]: https://caml.inria.fr/pub/old_caml_site/humps/caml_Games.html
 
