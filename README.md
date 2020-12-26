@@ -17,6 +17,7 @@ There are also bindings for the accompanying libraries of SDL2:
 * [tsdl-image][10] - Bindings to the SDL2_image library to go with Tsdl
 * [tsdl-mixer][11] - Bindings to the SDL2_mixer library to go with Tsdl
 * [tsdl-ttf][12] - Bindings to the SDL2_ttf library to go with Tsdl
+* [tsdl-gfx][13] - Bindings to the SDL2_gfx library to go with Tsdl
 
 * [OCamlSDL2_TTF][15] - Bindings to the SDL2_ttf library
 * [OCamlSDL2_Image][16] - Bindings to the SDL2_image library
@@ -84,6 +85,7 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [10]: https://github.com/tokenrove/tsdl-image
 [11]: https://github.com/tokenrove/tsdl-mixer
 [12]: https://github.com/tokenrove/tsdl-ttf
+[13]: https://github.com/fccm/tsdl-gfx
 
 [15]: https://github.com/fccm/OCamlSDL2_TTF
 [16]: https://github.com/fccm/OCamlSDL2_Image
