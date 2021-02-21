@@ -14,16 +14,18 @@
 
 There are also bindings for the accompanying libraries of SDL2:
 
-* [tsdl-image][10] - Bindings to the SDL2_image library to go with Tsdl
-* [tsdl-mixer][11] - Bindings to the SDL2_mixer library to go with Tsdl
-* [tsdl-ttf][12] - Bindings to the SDL2_ttf library to go with Tsdl
-* [tsdl-gfx][13] - Bindings to the SDL2_gfx library to go with Tsdl
+* Accompanying bindings to go with Tsdl:
+    * [tsdl-image][10] - Bindings to the SDL2\_image library to go with Tsdl
+    * [tsdl-mixer][11] - Bindings to the SDL2\_mixer library to go with Tsdl
+    * [tsdl-ttf][12] - Bindings to the SDL2\_ttf library to go with Tsdl
+    * [tsdl-gfx][13] - Bindings to the SDL2\_gfx library to go with Tsdl
 
-* [OCamlSDL2_TTF][15] - Bindings to the SDL2_ttf library
-* [OCamlSDL2_Image][16] - Bindings to the SDL2_image library
-* [OCamlSDL2_Mixer][17] - Bindings to the SDL2_mixer library
-* [OCamlSDL2_Net][18] - Bindings to the SDL2_net library
-* [OCamlSDL2_Gfx][19] - Bindings to the SDL2_gfx library
+* Accompanying bindings to go with OCamlSDL2:
+    * [OCamlSDL2\_TTF][15] - Bindings to the SDL2\_ttf library
+    * [OCamlSDL2\_Image][16] - Bindings to the SDL2\_image library
+    * [OCamlSDL2\_Mixer][17] - Bindings to the SDL2\_mixer library
+    * [OCamlSDL2\_Net][18] - Bindings to the SDL2\_net library
+    * [OCamlSDL2\_Gfx][19] - Bindings to the SDL2\_gfx library
 
 ## OpenGL
 
