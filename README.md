@@ -70,6 +70,12 @@ There are also bindings for the accompanying libraries of SDL2:
 * [ocaml-sdl2-minigames][110] - Some basic samples for mini-games like Snake (using SDL2)
 
 
+## Articles
+
+* [Programming A Space Invader OpenGL][180]: Lessons Learned
+* [Making a game (engine) with ECS and in OCaml][182]
+
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
@@ -128,3 +134,6 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [100]: https://caml.inria.fr/pub/old_caml_site/humps/caml_Games.html
 
 [110]: https://github.com/fccm/ocaml-sdl2-minigames/
+
+[180]: https://marmelab.com/blog/2020/02/21/ocaml-and-opengl-in-practice.html
+[182]: https://dev.to/sheosi/making-a-game-engine-with-ecs-and-in-ocaml-2oma
