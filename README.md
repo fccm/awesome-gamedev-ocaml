@@ -128,7 +128,7 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [64]: https://github.com/fccm/ocaml-shmups
 [65]: https://github.com/fccm/ocaml-shmup-ds
 [66]: http://decapode314.free.fr/ocaml/GL/binkohp.html
-[67]: http://decapode314.free.fr/ocaml/Chipmunk/rolling-moon.html
+[67]: http://decapode314.free.fr/ocaml/chipmunk/rolling-moon.html
 [68]: https://github.com/aryx/fork-rolling-moon
 [69]: http://decapode314.free.fr/ocaml/Tetratta/
 [70]: https://juripakaste.fi/caboodle.html
