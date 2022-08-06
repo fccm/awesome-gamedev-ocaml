@@ -81,6 +81,11 @@ There are also bindings for the accompanying libraries of SDL2:
 * [How to make an HTML5-Canvas game with OCaml][184]
 
 
+## Other Pages About GameDev for OCaml
+
+* [The gamedev page on ocamlverse][190]
+
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
@@ -143,3 +148,6 @@ This documentation is licensed under a [Creative Commons Attribution License](ht
 [180]: https://marmelab.com/blog/2020/02/21/ocaml-and-opengl-in-practice.html
 [182]: https://dev.to/sheosi/making-a-game-engine-with-ecs-and-in-ocaml-2oma
 [184]: http://decapode314.free.fr/re/tut/ocaml-re-tut.html
+
+[190]: https://ocamlverse.github.io/content/games.html
+
